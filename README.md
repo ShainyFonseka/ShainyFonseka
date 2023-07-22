@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a postgraduate student at RMIT ☺
+I'm currently learning about AI😊
 <!--
 **ShainyFonseka/ShainyFonseka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
